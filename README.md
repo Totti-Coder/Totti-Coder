@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Totti, un desarrollador frontend apasionado por crear experiencias interactivas con React.
+👋 ¡Muy buenas! Soy Pablo García Roza, un desarrollador frontend apasionado por crear experiencias interactivas con React.
 
 💻 Me gusta convertir ideas en aplicaciones funcionales, limpias y responsivas.
 
