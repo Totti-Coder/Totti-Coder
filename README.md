@@ -1,4 +1,4 @@
-👋 ¡Muy buenas! Soy Pablo García Roza, un desarrollador frontend apasionado por crear experiencias interactivas con React.
+👋 ¡Muy buenas! Soy Pablo García Roza, un desarrollador frontend apasionado por crear experiencias interactivas.
 
 💻 Me gusta convertir ideas en aplicaciones funcionales, limpias y responsivas.
 
