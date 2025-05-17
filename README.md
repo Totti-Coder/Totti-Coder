@@ -2,7 +2,7 @@
 
 💻 Me gusta convertir ideas en aplicaciones funcionales, limpias y responsivas.
 
-🚀 Actualmente estoy trabajando en proyectos personales con React, CSS avanzado y diseño de interfaces.
+🚀 Actualmente estoy trabajando en proyectos personales con Javascript, CSS avanzado y diseño de interfaces.
 
 📚 Aprendiendo TypeScript y probando herramientas modernas como Tailwind y Vite.
 
