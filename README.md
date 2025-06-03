@@ -11,3 +11,5 @@
 🧩 Tengo interés por el backend (Java, bases de datos) y me encanta aprender tecnologías nuevas.
 
 📫 Contacto:  https://www.linkedin.com/in/pablo-garcía-roza-5272932aa
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Totti-Coder&show_icons=true&count_private=true)
