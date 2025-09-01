@@ -1,14 +1,12 @@
-👋 ¡Muy buenas! Soy Pablo García Roza, un desarrollador frontend apasionado por crear experiencias interactivas.
+👋 ¡Muy buenas! Soy Pablo García Roza, un desarrollador full stack que está estudiando Desarrollo de Aplicaciones Web y un Master en Ciberseguridad simultaneamente.
 
-💻 Me gusta convertir ideas en aplicaciones funcionales, limpias y responsivas.
+💻 Me gusta convertir ideas en aplicaciones funcionales, limpias tanto para Web como para dispositivos móviles.
 
-🚀 Actualmente estoy trabajando en proyectos personales con Javascript, CSS avanzado y diseño de interfaces.
+🚀 Actualmente estoy trabajando en proyectos personales con React Native, Tailwind, Expo y Clerk.
 
-📚 Aprendiendo TypeScript y probando herramientas modernas como Tailwind y Vite.
+📚 Me encanta el hacking ético y me manejo muy bien con el sistema operativo Linux.
 
-🧠 Amante del código limpio y el aprendizaje constante.
-
-🧩 Tengo interés por el backend (Java, bases de datos) y me encanta aprender tecnologías nuevas.
+🧠 Amante del código limpio, constancia, dedicación y el aprendizaje.
 
 📫 Contacto:  https://www.linkedin.com/in/pablo-garcía-roza-5272932aa
 
