@@ -2,7 +2,7 @@
 
 💻 Me gusta convertir ideas en aplicaciones funcionales, limpias tanto para Web como para dispositivos móviles.
 
-🚀 Actualmente estoy trabajando en proyectos personales con React Native, Tailwind, Expo y Clerk.
+🚀 Actualmente estoy trabajando en proyectos personales con React Native, Tailwind, Expo , Clerk y Sanity aunque me gusta mucho PHP HTML CSS & Javascript.
 
 📚 Me encanta el hacking ético y me manejo muy bien con el sistema operativo Linux.
 
