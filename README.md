@@ -12,7 +12,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/totti-coder/totti-coder/blob/main/animation_500_kxa883sd.gif" alt="totti-coder" /></p>
+<p><img align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="totti-coder" /></p>
 
 <br>
 
