@@ -88,9 +88,25 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
   
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"/>
+  </a>
+  
+  <a href="https://reactnative.dev/" target="_blank"> 
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232A.svg?logo=react&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.nativewind.dev/" target="_blank"> 
+    <img alt="Nativewind" src="https://img.shields.io/badge/NativeWind-%23072b48.svg?logo=tailwind-css&logoColor=white"/>
+  </a>
+  
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   </a>
+  
+  <a href="https://expo.dev/" target="_blank"> 
+    <img alt="Expo" src="https://img.shields.io/badge/Expo-%231B1F22.svg?logo=expo&logoColor=white"/>
+  </a>
   
   <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
@@ -141,6 +157,10 @@
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-%23003545.svg?logo=mariadb&logoColor=white">
   </a> 
   
+  <a href="https://www.phpmyadmin.net/" target="_blank"> 
+    <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-%23616183.svg?logo=phpmyadmin&logoColor=white"/>
+  </a>
+  
  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
   </a>  
@@ -187,10 +207,6 @@
  <a href="https://netbeans.apache.org/" target="_blank"> 
     <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
   </a>
-
- <a href="https://www.anaconda.com/" target="_blank">
-    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A8E0.svg?logo=anaconda&logoColor=white"/>
-</a>
   
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
@@ -203,7 +219,10 @@
 ### 🥅 Others:
 <a href="https://httpd.apache.org" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>
 <a href="https://tomcat.apache.org" target="_blank"><img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black"></a>
+<a href="https://clerk.com/" target="_blank"><img alt="Clerk" src="https://img.shields.io/badge/Clerk-%234151D8.svg?logo=clerk&logoColor=white"/></a>
+<a href="https://www.sanity.io/" target="_blank"><img alt="Sanity" src="https://img.shields.io/badge/Sanity-%23F03E22.svg?logo=sanity&logoColor=white"/></a>
 <a href="https://www.anaconda.com" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white"></a>
+<a href="https://appwrite.io/" target="_blank"><img alt="Appwrite" src="https://img.shields.io/badge/Appwrite-%23f02e65.svg?logo=appwrite&logoColor=white"/></a>
 <a href="https://pandas.pydata.org" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
 <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
 <a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
