@@ -111,18 +111,18 @@
 <table width="100%">
   <tr> 
     <td width="50%" align="center">
-      <h3 align="center">Control Management System</h3>
+      <h3 align="center">🔒 Control Management System</h3>
       <p align="center">
         <a href="https://control-management-sys.infinityfreeapp.com/" title="Demo">
-          <img width="90%" src="https://play.google.com/store/apps/details?id=com.jaredco.screengrabber8&hl=es_PY" alt="Project Screenshot" />
+          <img width="90%" src="https://github.com/Totti-Coder/CMS/blob/main/recursos/imagenes/Screenshot.png" alt="Project Screenshot" />
         </a>
       </p>
     </td>
     <td width="50%" align="center">
-      <h3 align="center">Gym Tracker - Mobile</h3>
+      <h3 align="center">🏋️ Gym Tracker - Mobile</h3>
       <p align="center">
         <a href="https://pablo-totti-fit-app--dtvgnfj9hh.expo.app/sign-in" title="Demo">
-          <img width="90%" src="https://www.reddit.com/r/techsupport/comments/1ch3eoz/screenshot_of_2_or_more_screens_at_one_time/?tl=es-419" alt="Project Screenshot" />
+          <img width="60%" src="https://github.com/Totti-Coder/App-Gym-Expo-React-Native-TypeScript-Sanity/blob/main/gymtracker.png?raw=true" alt="Project Screenshot" />
         </a>
       </p>
     </td>
@@ -135,7 +135,7 @@
 <h2 align="center">📊 Statistical Data & Activity 🚀</h2>
 <br>
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Developer Animation" width="500px"/>
+<img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Developer Animation" width="500px"/>
 
 ![Totti-Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=totti-coder&theme=tokyonight&show_icons=true)
 
