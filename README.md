@@ -105,7 +105,7 @@
 <br>
 
 ---
-
+<br>
 <h2 align="center">🛠️ My Projects 👨🏻‍💻</h2>
 
 <table width="100%">
@@ -135,13 +135,24 @@
 <h2 align="center">📊 Statistical Data & Activity 🚀</h2>
 <br>
 
-<img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Developer Animation" width="500px"/>
+<p align="center">
+    <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Developer Animation" width="500px"/>
+</p>
 
-![Totti-Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=totti-coder&theme=tokyonight&show_icons=true)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=totti-coder&theme=tokyonight&show_icons=true" alt="Totti-Coder's GitHub stats"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=totti-coder&layout=compact&theme=dark)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totti-coder&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Totti-Coder&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Totti-Coder&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"/>
+    </a>
+</p>
+
 <br>
 <hr>
 
