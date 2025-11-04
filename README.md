@@ -54,7 +54,8 @@
 ## 📦 Backend & DevOps
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-%234151D8.svg?style=for-the-badge&logo=clerk&logoColor=white) 
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23f02e65.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Sanity](https://img.shields.io/badge/Sanity-%23F03E22.svg?style=for-the-badge&logo=sanity&logoColor=white)
@@ -93,7 +94,6 @@
 
 ## 💡 IDEs & Tools
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -101,6 +101,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A8E0.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder%20Client-8B5CF6?style=for-the-badge&logo=thunder&logoColor=white)
 
 <br>
 
