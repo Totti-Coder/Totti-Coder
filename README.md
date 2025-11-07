@@ -121,6 +121,16 @@
       </p>
     </td>
     <td width="50%" align="center">
+      <h3 align="center">🔮 Jujutsu Kaisen API</h3>
+      <p align="center">
+        <a href="https://jujutsukaisen-api.onrender.com/" title="Demo">
+          <img width="90%" src="https://github.com/Totti-Coder/JujutsuKaisen-API/blob/main/images/API.png" alt="API Screenshot" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <h3 align="center">🏋️ Gym Tracker - Mobile</h3>
       <p align="center">
         <a href="https://pablo-totti-fit-app--dtvgnfj9hh.expo.app/sign-in" title="Demo">
