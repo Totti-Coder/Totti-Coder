@@ -131,10 +131,10 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3 align="center">🏋️ Gym Tracker - Mobile</h3>
+      <h3 align="center">🎙️ Jarvis — Asistente de voz local</h3>
       <p align="center">
-        <a href="https://pablo-totti-fit-app--dtvgnfj9hh.expo.app/sign-in" title="Demo">
-          <img width="60%" src="https://github.com/Totti-Coder/App-Gym-Expo-React-Native-TypeScript-Sanity/blob/main/gymtracker.png?raw=true" alt="Project Screenshot" />
+        <a href="https://github.com/Totti-Coder/jarvis-local" title="Repositorio">
+          <img width="90%" src="https://github.com/Totti-Coder/jarvis-local/blob/main/jarvis.png?raw=true" alt="Jarvis Screenshot" />
         </a>
       </p>
     </td>
