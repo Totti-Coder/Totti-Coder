@@ -1,7 +1,4 @@
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, soy Pablo García Roza</h1>
-<h3 align="center">Estudiante de Ingeniería de Software 🎓 & Creador de Producto 💻</h3>
-<p align="justify">Me apasiona la tecnología, la IA y la seguridad. Me encanta construir aplicaciones, curiosear con herramientas nuevas y probar cosas, buscando siempre que el código sea legible, que las llamadas a las APIs no arruinen a nadie 🤣 y que las cosas no se rompan a la primera de cambio.</p>
-<br>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:16213e&height=200&section=header&text=Pablo%20Garc%C3%ADa%20Roza&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20%7C%20Data%20de%20Engineer&descAlignY=56&descSize=17" alt="Pablo García Roza" /> </p> <p align="center"> <a href="https://portfolio-pablo-garcia-roza.vercel.app/#sobre-mi"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Ingenier%C3%ADa+de+Software+%F0%9F%8E%93;Data+Engineer+%F0%9F%92%BB;Seguridad+desde+la+base+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /> </a> </p> <p align="justify">Me apasiona la tecnología, la IA y la seguridad. Me encanta construir aplicaciones, curiosear con herramientas nuevas y probar cosas, buscando siempre que el código sea legible, que las llamadas a las APIs no arruinen a nadie 🤣 y que las cosas no se rompan a la primera de cambio.</p> <br> <p align="right"> 
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=totti-coder&label=Profile%20views&color=0e75b6&style=flat"
     alt="totti-coder" /> 
@@ -170,4 +167,5 @@
   <em>Siempre abierto a conversar sobre proyectos chulos o propuestas interesantes ☕</em>
 </p>
 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0e75b6&height=120&section=footer" alt="" /> </p>
 <br>
