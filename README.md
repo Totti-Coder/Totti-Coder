@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, soy Pablo García Roza</h1>
 <h3 align="center">Estudiante de Ingeniería de Software 🎓 & Creador de Producto 💻</h3>
-<p align="center">Me apasiona la tecnología, la IA y la seguridad. Me encanta construir aplicaciones, curiosear con herramientas nuevas y probar cosas, buscando siempre que el código sea legible, que las llamadas a las APIs no arruinen a nadie 🤣 y que las cosas no se rompan a la primera de cambio.</p>
+<p align="justify">Me apasiona la tecnología, la IA y la seguridad. Me encanta construir aplicaciones, curiosear con herramientas nuevas y probar cosas, buscando siempre que el código sea legible, que las llamadas a las APIs no arruinen a nadie 🤣 y que las cosas no se rompan a la primera de cambio.</p>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=totti-coder&label=Profile%20views&color=0e75b6&style=flat"
