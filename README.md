@@ -1,7 +1,6 @@
-<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Totti-Coder</h1>
-<h3 align="center">Web 💻 & Multiplatform 📱 Application Development Student.</h3>
-
-<h3 align="center">Specialized in Cybersecurity 🔐.</h3>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, soy Pablo García Roza</h1>
+<h3 align="center">Estudiante de Ingeniería de Software 🎓 & Creador de Producto 💻</h3>
+<p align="center">Me apasiona la tecnología, la IA y la seguridad. Me encanta construir aplicaciones, curiosear con herramientas nuevas y probar cosas, buscando siempre que el código sea legible, que las llamadas a las APIs no arruinen a nadie 🤣 y que las cosas no se rompan a la primera de cambio.</p>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=totti-coder&label=Profile%20views&color=0e75b6&style=flat"
@@ -13,15 +12,15 @@
 
 <br>
 
-- 🌱 I’m currently learning Web & Multiplatform Development and other programming languages.
-- 🛡️ My journey is fueled by an unwavering passion for Cybersecurity, a discipline I view as fundamental to the integrity and future of all modern digital projects.
-- ⭐ Eager to Contribute: Driven by high motivation 🚀, I am eager to join a collaborative work environment 🤝 where I can contribute proactively ✨ and commit to continuous learning from industry experts 📚.
+- 🌱 **En lo que ando metido:** Estudiando Ingeniería de Software 🎓, trasteando con arquitectura y probando cosas nuevas en cuanto tengo un rato libre.
+- 🛡️ **Cómo veo la seguridad:** Para mí no es algo que se añade al final para cumplir el expediente, sino la base para que el proyecto no se caiga al primer soplo 💨.
+- 🚀 **Lo que busco:** Encajar en un equipo donde se pueda hablar de código sin rodeos, construir cosas útiles y donde no dé miedo cuestionar el "siempre se ha hecho así" 😉.
 
 <br>
 
 ---
 
-## 💻 Programming Languages
+## 💻 Lenguajes
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -34,13 +33,11 @@
 
 ---
 
-## 📂 Frontend Development
+## 📂 Frotend
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Expo](https://img.shields.io/badge/Expo-%231B1F22.svg?style=for-the-badge&logo=expo&logoColor=white)  
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/NativeWind-%23072b48.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -54,9 +51,6 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-%234151D8.svg?style=for-the-badge&logo=clerk&logoColor=white) 
-![Appwrite](https://img.shields.io/badge/Appwrite-%23f02e65.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-%23F03E22.svg?style=for-the-badge&logo=sanity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23f05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
@@ -65,7 +59,7 @@
 
 ---
 
-## 💾 Databases
+## 💾 Bases de datos
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
@@ -76,32 +70,29 @@
 
 ---
 
-## 🖥️ Operating Systems
+## 🖥️ Sistemas Operativos y Ciberseguridad
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <br>
 
 ---
 
-## 💡 IDEs & Tools
+## 💡 IDs y herramientas
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/Thunder%20Client-8B5CF6?style=for-the-badge&logo=thunder&logoColor=white)
 
 <br>
 
 ---
 <br>
-<h2 align="center">🛠️ My Projects 👨🏻‍💻</h2>
+<h2 align="center">🛠️ Mis proyectos personales 👨🏻‍💻</h2>
 
 <table width="100%">
   <tr> 
@@ -137,25 +128,21 @@
 <br>
 <br>
 
-<h2 align="center">📊 Statistical Data & Activity 🚀</h2>
+<h2 align="center">📊 Datos sobre mi 🚀</h2>
 <br>
 
 <p align="center">
-    <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Developer Animation" width="500px"/>
+  <img src="https://kgnio-profile-card.vercel.app/api/card?user=Totti-Coder&theme=azure-noir" alt="GitHub Profile Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=totti-coder&theme=tokyonight&show_icons=true" alt="Totti-Coder's GitHub stats"/>
+  <img src="https://github-languages-card.vercel.app/api/top-languages?username=Totti-Coder&theme=dark" alt="GitHub Languages" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totti-coder&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
-<p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Totti-Coder&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"/>
-    </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Totti-Coder&theme=modern-lilac2&locale=es&mode=weekly" alt="GitHub Streak" />
+  </a>
 </p>
 
 <br>
@@ -163,17 +150,24 @@
 
 <br>
 
-<h2 align="center">📲 HOW TO CONTACT ME 🤝</h2>
+<h2 align="center">📫 ¿Hablamos o conectamos? 🤝</h2>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-garc%C3%ADa-roza-5272932aa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pablo.groza2000@gmail.com.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-pablo-garcia-roza.vercel.app/#sobre-mi" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/pablo-garc%C3%ADa-roza-5272932aa/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:pablogroza@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
+  <em>Siempre abierto a conversar sobre proyectos chulos o propuestas interesantes ☕</em>
 </p>
 
 <br>
