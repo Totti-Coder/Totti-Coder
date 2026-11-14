@@ -96,7 +96,7 @@
     <td width="50%" align="center">
       <h3 align="center">🔒 Control Management System</h3>
       <p align="center">
-        <a href="https://control-management-sys.infinityfreeapp.com/" title="Demo">
+        <a href="https://github.com/Totti-Coder/CMS" title="Demo">
           <img width="90%" src="https://github.com/Totti-Coder/CMS/blob/main/recursos/imagenes/Screenshot.png" alt="Project Screenshot" />
         </a>
       </p>
