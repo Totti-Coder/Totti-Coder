@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:16213e&height=200&section=header&text=Pablo%20Garc%C3%ADa%20Roza&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20%7C%20Data%20de%20Engineer&descAlignY=56&descSize=17" alt="Pablo García Roza" /> </p> <p align="center"> <a href="https://portfolio-pablo-garcia-roza.vercel.app/#sobre-mi"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Ingenier%C3%ADa+de+Software+%F0%9F%8E%93;Data+Engineer+%F0%9F%92%BB;Seguridad+desde+la+base+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /> </a> </p> <p align="justify">Me apasiona la tecnología, la IA y la seguridad. Me encanta construir aplicaciones, curiosear con herramientas nuevas y probar cosas, buscando siempre que el código sea legible, que las llamadas a las APIs no arruinen a nadie 🤣 y que las cosas no se rompan a la primera de cambio.</p> <br> <p align="right"> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:16213e&height=200&section=header&text=Pablo%20Garc%C3%ADa%20Roza&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20%7C%20Ciberseguridad%20&descAlignY=56&descSize=17" alt="Pablo García Roza" /> </p> <p align="center"> <a href="https://portfolio-pablo-garcia-roza.vercel.app/#sobre-mi"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=0E75B6&center=true&vCenter=true&width=620&lines=Ingenier%C3%ADa+de+Software+%F0%9F%8E%93;Ciberseguridad+%F0%9F%92%BB;Seguridad+desde+la+base+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /> </a> </p> <p align="justify">Soy de Gijón y empecé estudiando para ser maestro, pero acabé enganchado al código. Me gusta construir cosas, trastear con herramientas nuevas y romper mis propios laboratorios para entender cómo se defienden. Intento que el código sea legible, que sea seguro desde el principio y que las llamadas a las APIs no arruinen a nadie 🤣.</p> <br> <p align="right"> 
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=totti-coder&label=Profile%20views&color=0e75b6&style=flat"
     alt="totti-coder" /> 
@@ -92,12 +92,30 @@
 <h2 align="center">🛠️ Mis proyectos personales 👨🏻‍💻</h2>
 
 <table width="100%">
-  <tr> 
+  <tr>
+    <td width="50%" align="center">
+      <h3 align="center">⚔️ Smite 2 Tracker</h3>
+      <p align="center">
+        <a href="https://github.com/Totti-Coder/Smite2-App-FullStack" title="Repositorio">
+          <img width="90%" src="https://raw.githubusercontent.com/Totti-Coder/Smite2-App-FullStack/main/docs/demo.webp" alt="Recorrido por la aplicación: inicio de sesión, dashboard con winrate y tendencia de KDA, registro de partida, catálogo de dioses, vista orbital 3D de la build y tier lists." />
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3 align="center">🎙️ Jarvis — Asistente de voz local</h3>
+      <p align="center">
+        <a href="https://github.com/Totti-Coder/jarvis-local" title="Repositorio">
+          <img width="90%" src="https://github.com/Totti-Coder/jarvis-local/blob/main/jarvis.png?raw=true" alt="Jarvis Screenshot" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <h3 align="center">🔒 Control Management System</h3>
       <p align="center">
         <a href="https://github.com/Totti-Coder/CMS" title="Demo">
-          <img width="90%" src="https://github.com/Totti-Coder/CMS/blob/main/recursos/imagenes/Screenshot.png" alt="Project Screenshot" />
+          <img width="90%" src="https://github.com/Totti-Coder/CMS/blob/main/recursos/imagenes/Screenshot.png?raw=true" alt="Project Screenshot" />
         </a>
       </p>
     </td>
@@ -105,17 +123,7 @@
       <h3 align="center">🔮 Jujutsu Kaisen API</h3>
       <p align="center">
         <a href="https://jujutsukaisen-api.onrender.com/" title="Demo">
-          <img width="90%" src="https://github.com/Totti-Coder/JujutsuKaisen-API/blob/main/images/API.png" alt="API Screenshot" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3 align="center">🎙️ Jarvis — Asistente de voz local</h3>
-      <p align="center">
-        <a href="https://github.com/Totti-Coder/jarvis-local" title="Repositorio">
-          <img width="90%" src="https://github.com/Totti-Coder/jarvis-local/blob/main/jarvis.png?raw=true" alt="Jarvis Screenshot" />
+          <img width="90%" src="https://github.com/Totti-Coder/JujutsuKaisen-API/blob/main/images/API.png?raw=true" alt="API Screenshot" />
         </a>
       </p>
     </td>
